@@ -18,7 +18,7 @@
   "homepage": "https://github.com/magalhas/express-react-engine",
   "peerDependencies": {
     "react": "^0.14.0",
-    "react-dom": "^0.14.0",
+    "react-dom": "^0.14.0"
   },
   "dependencies": {
     "babel": "^4.7.16",
